@@ -5,6 +5,17 @@
 > I don't allow to release my un-released mods from here. 
 ---
 
+## Mod_Aimbot
+<details>
+  <summary>Add view-based Aimbot. Un-released. </summary>
+
+```
+..\Content\_DRGModding\Mod_Aimbot
+
+..\AssetRegistry.*
+```
+</details>
+
 ## Mod_LeftHandedWeapon
 <details>
   <summary>(Currently cause crash)Allow to change the first person view to the left-sided. </summary>
