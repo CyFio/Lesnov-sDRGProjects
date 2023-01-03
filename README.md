@@ -5,6 +5,17 @@
 > I don't allow to release my un-released mods from here. 
 ---
 
+## Mod_FocusADS
+<details>
+  <summary>Add animation based ADS for M1000. ADS is performed automatically when Focus-shot is active. Also it has other forcus-shot indicator. </summary>
+
+```
+..\Content\_DRGModding\Mod_FocusADS
+
+..\AssetRegistry.*
+```
+</details>
+
 ## Mod_Aimbot
 <details>
   <summary>(Un-released)Add view-based Aimbot. Aimbot is automatically disabled when sprinting or certain weapon is equipped. </summary>
