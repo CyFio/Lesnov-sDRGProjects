@@ -28,6 +28,16 @@ Need to pack
 ..\AssetRegistry.*  
 ```
 
+## Content/_CustomVanityFramework
+Note - Proper Custom Vanity Framework, started to work on this after Pre Custom Vanity Framework. Can add new vanity via asset registry.
+
+Need to pack  
+```
+..\Content\_CustomVanityFramework
+
+..\AssetRegistry.*
+```
+
 ## Content/_PreCustomVanityFramework
 Note - Pre Custom Vanity Framework. It has dynamic vanity changing, and also dynamic weapon skin changer. Development of this was stopped after I started Custom Vanity Framework. Quite old, codes might hard to read.
 
