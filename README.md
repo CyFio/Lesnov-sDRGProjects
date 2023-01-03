@@ -5,6 +5,18 @@
 > I don't allow to release my un-released mods from here. 
 ---
 
+
+## Mod_TakuyaSan
+<details>
+  <summary>Replace BP_Spring_Dwarf with Takuya-San from 真夏の夜の淫夢.</summary>
+
+```
+..\Content\_DRGModding\_Cosmetics\Mod_TakuyaSan
+
+..\AssetRegistry.*
+```
+</details>
+
 ## Mod_FocusADS
 <details>
   <summary>Add animation based ADS for M1000. ADS is performed automatically when Focus-shot is active. Also it has other forcus-shot indicator. </summary>
