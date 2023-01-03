@@ -7,7 +7,7 @@
 
 ## Mod_Aimbot
 <details>
-  <summary>Add view-based Aimbot. Un-released. </summary>
+  <summary>(Un-released)Add view-based Aimbot. Aimbot is automatically disabled when sprinting or certain weapon is equipped. </summary>
 
 ```
 ..\Content\_DRGModding\Mod_Aimbot
