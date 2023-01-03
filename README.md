@@ -1,6 +1,7 @@
 # Lesnov's DRG Mods Source
 ---
 > I put my mods source here. Content/_DRGModding/_Frameworks is used for the most of BPs, so please contain that.  
+> Several mods are still work-in-progress.
 > 
 > I don't allow to release my un-released mods from here. 
 ---
@@ -10,6 +11,19 @@
 - Aimbot
 - PreCustomVanityFramework
 - BashSystem
+- ShoulderWeaponSystem
+
+## Mod_ShoulderWeaponSystem
+<details>
+  <summary>Add shoulder mounted weapons like Doom Eternal's shoulder weapon.</summary>
+
+```
+..\Content/_DRGModding/Mod_ShoulderWeaponSystem
+..\Content/_DRGModding/_Frameworks/Widget
+
+..\AssetRegistry.*
+```
+</details>
 
 ## Mod_BashSystem
 <details>
