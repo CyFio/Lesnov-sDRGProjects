@@ -28,8 +28,8 @@ Need to pack
 ..\AssetRegistry.*  
 ```
 
-## Content/_DRGModding/Mod_AdditionalWeaponSlot  
-Note - Pre Custom Vanity Framework. It has dynamic vanity changing, and also dynamic weapon skin changer.
+## Content/_PreCustomVanityFramework
+Note - Pre Custom Vanity Framework. It has dynamic vanity changing, and also dynamic weapon skin changer. Development of this was stopped after I started Custom Vanity Framework. Quite old, codes might hard to read.
 
 Need to pack  
 ```
