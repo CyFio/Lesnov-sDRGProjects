@@ -47,3 +47,13 @@ Need to pack
 
 ..\AssetRegistry.*
 ```
+
+## Content/_OverclockFramework
+Note - Add new way to add overclocks dynamically, This one suppress conflict with another overclock mod.
+
+Need to pack  
+```
+..\Content/_OverclockFramework
+
+..\AssetRegistry.*
+```
