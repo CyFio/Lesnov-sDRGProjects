@@ -5,6 +5,10 @@
 > I don't allow to release my un-released mods from here. 
 ---
 
+## Un-release mod list
+- MeleeSystem
+- Aimbot
+- PreCustomVanityFramework
 
 ## Mod_TakuyaSan
 <details>
