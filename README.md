@@ -6,6 +6,18 @@ Content/_DRGModding/_Frameworks is used for the most of BPs, so pls contain that
 
 Pls don't upload unreleased mods.
 
+
+## Content/_DRGModding/Mod_FullArmorBosco
+Note - Add FA-Bosco to perform several new actions for Bosco. Doesn't contain any audio file due to license.  
+
+Need to pack  
+```
+..\Content/_DRGModding/Mod_FullArmorBosco
+..\Content/_DRGModding/_Frameworks/Widget  
+
+..\AssetRegistry.*  
+```
+
 ## Content/_DRGModding/_MeleeSystem  
 Note - Add melee system and weapons. Doesn't contain any audio file due to license.  
 
