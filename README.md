@@ -2,8 +2,8 @@
 ---
 > I put my mods source here. Content/_DRGModding/_Frameworks is used for the most of BPs, so please contain that.  
 > 
-> I don't allow to release my un-released mods from here. Please don't do comissions based on my mods.
-
+> I don't allow to release my un-released mods from here.
+---
 ## Mod_FullArmorBosco
 <details>
   <summary>Add FA-Bosco to perform several new actions for Bosco. Doesn't contain any audio file due to license.  </summary>
