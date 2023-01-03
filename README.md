@@ -10,17 +10,30 @@ Pls don't upload unreleased mods.
 Note - Add melee system and weapons. Doesn't contain any audio file due to license.  
 
 Need to pack  
+```
 ..\Content/_DRGModding/_MeleeSystem  
 ..\Content/_DRGModding/_Frameworks/Widget  
 
 ..\AssetRegistry.*  
-
+```
 ## Content/_DRGModding/Mod_AdditionalWeaponSlot  
 Note - Reuse melee system to add other weapons.  
 
 Need to pack  
+```
 ..\Content/_DRGModding/_MeleeSystem/_HandleWeaponEquip  
 ..\Content/_DRGModding/_Frameworks/Widget  
 ..\Content/_DRGModding/Mod_AdditionalWeaponSlot  
 
 ..\AssetRegistry.*  
+```
+
+## Content/_DRGModding/Mod_AdditionalWeaponSlot  
+Note - Pre Custom Vanity Framework. It has dynamic vanity changing, and also dynamic weapon skin changer.
+
+Need to pack  
+```
+..\Content/_PreCustomVanityFramework
+
+..\AssetRegistry.*
+```
