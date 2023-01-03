@@ -5,6 +5,28 @@
 > I don't allow to release my un-released mods from here. 
 ---
 
+## Mod_LeftHandedWeapon
+<details>
+  <summary>(Currently cause crash)Allow to change the first person view to the left-sided. </summary>
+
+```
+..\Content\_DRGModding\Mod_LeftHandedWeapon
+
+..\AssetRegistry.*
+```
+</details>
+
+## Mod_TrueFPS
+<details>
+  <summary>Add a showable leg for First Person View. </summary>
+
+```
+..\Content\_DRGModding\Mod_TrueFPS
+
+..\AssetRegistry.*
+```
+</details>
+
 ## Mod_BoscoChan
 <details>
   <summary>Add a pettable Bosco-chan stand. </summary>
