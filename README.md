@@ -2,8 +2,20 @@
 ---
 > I put my mods source here. Content/_DRGModding/_Frameworks is used for the most of BPs, so please contain that.  
 > 
-> I don't allow to release my un-released mods from here.
+> I don't allow to release my un-released mods from here. 
 ---
+
+## Mod_BoscoChan
+<details>
+  <summary>Add a pettable Bosco-chan stand. </summary>
+
+```
+..\Content\_DRGModding\Mod_BoscoChan
+
+..\AssetRegistry.*
+```
+</details>
+
 ## Mod_FullArmorBosco
 <details>
   <summary>Add FA-Bosco to perform several new actions for Bosco. Doesn't contain any audio file due to license.  </summary>
