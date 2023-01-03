@@ -9,6 +9,19 @@
 - MeleeSystem
 - Aimbot
 - PreCustomVanityFramework
+- BashSystem
+
+## Mod_BashSystem
+<details>
+  <summary>Add Bash System to perform bash with weapons. Part of Melee System but made as separated mod.</summary>
+
+```
+..\Content/_DRGModding/Mod_BashSystem
+..\Content/_DRGModding/_Frameworks/Widget
+
+..\AssetRegistry.*
+```
+</details>
 
 ## Mod_TakuyaSan
 <details>
