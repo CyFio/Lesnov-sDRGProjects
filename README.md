@@ -12,6 +12,18 @@
 - PreCustomVanityFramework
 - BashSystem
 - ShoulderWeaponSystem
+- 3D-HUD
+
+## Mod_3DHUD
+<details>
+  <summary>Add 3D-Based HUD like Crysis's HUD.</summary>
+
+```
+..\Content/_DRGModding/Mod_3DHUD
+
+..\AssetRegistry.*
+```
+</details>
 
 ## Mod_ShoulderWeaponSystem
 <details>
