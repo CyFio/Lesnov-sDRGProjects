@@ -130,7 +130,7 @@
 
 ## Mod_AdditionalWeaponSlot 
 <details>
-  <summary>Reuse BP from _MeleeSystem to add other weapons.</summary>
+  <summary>Reuse BP from _MeleeSystem to add other custom weapons.</summary>
 
 ```
 ..\Content/_DRGModding/_MeleeSystem/_HandleWeaponEquip  
